@@ -4,10 +4,68 @@ Software Engineering Must Reading Paper
 ## Target
 We want to collecting this list for our new graduated students for moving more steps into Software Engineering research area.
 
-## 小组报告论文清单
-1. 2021年11月10日 中午  吴思渺   主题（论文）：[maryshaw2002SoftwareEngineeringPaperWriting](https://github.com/lihongweimail/SoftwareEngineering_MustReadingPaper/blob/main/maryshaw2002SoftwareEngineeringPaperWriting.pdf) 
-2. 
+## 计算机专业学术基础知识列表
+### 学术检索主要有：
+1. [百度学术](http://xueshu.baidu.com/)
+2. [Google 学术搜索](http://scholar.google.com/) or [glgoo镜像](scholar.glgoo.org)
+3. [Microsoft Academic Search微软学术搜索](http://academic.research.microsoft.com/)
+4. [推荐!!!论文关系图谱检索connectedpapers](https://www.connectedpapers.com/)
+5. [推荐!!!aminer AI赋能科学检索](https://www.aminer.cn/)
+6. [推荐!!!Papers With Code 最新论文项目](https://paperswithcode.com/)
+7. [推荐!!!DBLP Computer Science Bibliography 最全会议期刊论文库](http://dblp.uni-trier.de/) or [DBLP新org域名](https://dblp.org/) 
+8. [推荐!!!Arxiv](https://arxiv.org/search/cs)
+9. [中国知网](http://www.cnki.net/)
+10. [CALIS高校学位论文数据库](http://etd.calis.edu.cn/)
+11. [万方数据（学术会议期刊，学位论文等）](http://g.wanfangdata.com.cn/)
+12. [维普－中文科技期刊数据库](http://lib.cqvip.com/)
+13. [ACM Digital Library－国内镜像](http://acm.lib.tsinghua.edu.cn/acm/)
+14. [ACM Digital Library－国际站](http://dl.acm.org/)
+15. [IEEE Xplore Digital Library](http://ieeexplore.ieee.org/Xplore/home.jsp)
+16. [计算机相关的期刊（Elsevier - ScienceDirect Journals）](http://www.sciencedirect.com/science/journals/)
+17. [计算机相关的期刊\书（SpringerLink Journal  and Book）](http://link.springer.com/)
+18. [EI 检索凭证,Engineering Village－Compendex：](http://www.engineeringvillage.com/) 
+19. [学位论文ProQuest Dissertations and Theses：](http://www.proquest.com/) , [ProQuest学位论文全文数据库（CALIS镜像）](http://pqdt.calis.edu.cn/) , [ProQuest学位论文全文数据库（上海交通大学镜像）](http://202.121.183.68/)
+20. [综合类别的资源Science Online sciencemag：](http://www.sciencemag.org/)
+21. [综合类别的资源Web of Science：](http://www.webofknowledge.com/)
 
+### 文献管理工具：
+1. [收费： Endnote](http://www.endnote.com/)
+2. [收费：expressnote](www.inoteexpress.com)
+3. [免费： colwiz](www.colwiz.com)
+4. [免费： Zotero](https://www.zotero.org/)
+5. [jabref 开源项目：](https://www.jabref.org/)
+
+### 论文编辑工具：
+1. [MacOS LATEX 基础软件：MACTEX](http://mac.softpedia.com/get/Developer-Tools/MacTeX.shtml)
+2. [MacOS LATEX 工具：texpad](https://www.texpad.com/)
+3. [LATEX 工具 免费编辑器：TeXnicle2](http://www.bobsoft-mac.de/texnicle/texnicle.html)
+4. [Windows LATEX 工具 ProTeXt](https://www.tug.org/protext/)
+5. [Windows LATEX 工具 ProTeXt 以及其自带的编辑器：] TeXStudio
+
+
+
+## 小组报告论文清单
+
+### 基础知识学习
+1. 2021年11月03日 王烨锴 [线性回归](BasicKnowledge/readme.md) , [PPT](BasicKnowledge/readme.md)
+2. 2021年11月10日 吴思渺 [感知机 示例路径](BasicKnowledge/readme.md) ， [PPT](BasicKnowledge/readme.md)
+
+
+### Code Generation
+
+### Code Summarization
+1. 2021年11月03日 匡江玲 [ACL-IJCNLP 2021 Learning Sequential and Structural Information for Source Code](CodeSummarization/Learning Sequential and Structural Information for Source Code.pdf) , [PPT](CodeSummarization/readme.md)
+
+
+### Codevisualization
+
+### Digital Twins
+
+### GNN
+
+### Knowledge Graph
+
+### Recommended System
 
 ## the Paper list
 Collecting Source <br>
