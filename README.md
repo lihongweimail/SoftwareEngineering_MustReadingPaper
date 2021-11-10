@@ -5,7 +5,7 @@ Software Engineering Must Reading Paper
 We want to collecting this list for our new graduated students for moving more steps into Software Engineering research area.
 
 ## 小组报告论文清单
-1. 2021年11月10日 中午  吴思渺   主题（论文）：[收费但是副驾驶的看法技术的分  1-9章节](https://github.com/lihongweimail/SoftwareEngineering_MustReadingPaper/blob/main/maryshaw2002SoftwareEngineeringPaperWriting.pdf) 
+1. 2021年11月10日 中午  吴思渺   主题（论文）：[maryshaw2002SoftwareEngineeringPaperWriting](https://github.com/lihongweimail/SoftwareEngineering_MustReadingPaper/blob/main/maryshaw2002SoftwareEngineeringPaperWriting.pdf) 
 2. 
 
 
