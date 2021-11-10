@@ -4,6 +4,11 @@ Software Engineering Must Reading Paper
 ## Target
 We want to collecting this list for our new graduated students for moving more steps into Software Engineering research area.
 
+## 小组报告论文清单
+1. 2021年11月10日 中午  吴思渺   主题（论文）：[收费但是副驾驶的看法技术的分  1-9章节](https://files.cnblogs.com/files/jjlay/SE_10th_Edition_%E4%B8%93%E4%B8%9A%E8%8B%B1%E8%AF%AD%E6%95%99%E6%9D%90%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE_Xmind%E5%AF%BC%E5%87%BAPDF_1%E5%88%B09%E7%AB%A0.zip) 
+2. 
+
+
 ## the Paper list
 Collecting Source <br>
 
