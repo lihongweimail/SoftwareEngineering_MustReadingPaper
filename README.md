@@ -9,11 +9,11 @@ We want to collecting this list for our new graduated students for moving more s
 1. [百度学术](http://xueshu.baidu.com/)
 2. [Google 学术搜索](http://scholar.google.com/) or [glgoo镜像](scholar.glgoo.org)
 3. [Microsoft Academic Search微软学术搜索](http://academic.research.microsoft.com/)
-4. [推荐!!!论文关系图谱检索connectedpapers](https://www.connectedpapers.com/)
-5. [推荐!!!aminer AI赋能科学检索](https://www.aminer.cn/)
-6. [推荐!!!Papers With Code 最新论文项目](https://paperswithcode.com/)
-7. [推荐!!!DBLP Computer Science Bibliography 最全会议期刊论文库](http://dblp.uni-trier.de/) or [DBLP新org域名](https://dblp.org/) 
-8. [推荐!!!Arxiv](https://arxiv.org/search/cs)
+4. [推荐!!!  论文关系图谱检索connectedpapers](https://www.connectedpapers.com/)
+5. [推荐!!!  aminer AI赋能科学检索](https://www.aminer.cn/)
+6. [推荐!!!  Papers With Code 最新论文项目](https://paperswithcode.com/)
+7. [推荐!!!  DBLP Computer Science Bibliography 最全会议期刊论文库](http://dblp.uni-trier.de/) or [DBLP新org域名](https://dblp.org/) 
+8. [推荐!!!  Arxiv](https://arxiv.org/search/cs)
 9. [中国知网](http://www.cnki.net/)
 10. [CALIS高校学位论文数据库](http://etd.calis.edu.cn/)
 11. [万方数据（学术会议期刊，学位论文等）](http://g.wanfangdata.com.cn/)
@@ -41,6 +41,7 @@ We want to collecting this list for our new graduated students for moving more s
 3. [LATEX 工具 免费编辑器：TeXnicle2](http://www.bobsoft-mac.de/texnicle/texnicle.html)
 4. [Windows LATEX 工具 ProTeXt](https://www.tug.org/protext/)
 5. [Windows LATEX 工具 ProTeXt 以及其自带的编辑器：] TeXStudio
+6. [OVERLEAF.COM 在线LaTeX编写工具](https://www.overleaf.com/)
 
 
 
