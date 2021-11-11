@@ -1,8 +1,12 @@
 # SoftwareEngineering_MustReadingPaper
 Software Engineering Must Reading Paper
 
+--- 
+
 ## Target
 We want to collecting this list for our new graduated students for moving more steps into Software Engineering research area.
+
+---
 
 ## 计算机专业学术基础知识列表
 ### 学术检索主要有：
@@ -44,8 +48,7 @@ We want to collecting this list for our new graduated students for moving more s
 6. [OVERLEAF.COM 在线LaTeX编写工具](https://www.overleaf.com/)
 
 
-
-
+---
 
 ## the Paper list
 Collecting Source <br>
@@ -61,9 +64,9 @@ Collecting Source <br>
 
 3. Best Courses/Lectures/Keynotes from University/Conference/Journal
 
-## the MindMap
+---
+## the SE book MINDMAP
 we hope there is a chance to create mindmap/paths to learning the interests or topics from  those papers. to be contiue....
-
 
 1. SE book MINDMAP
 来自： https://www.cnblogs.com/jjlay/p/12175576.html <br>
@@ -83,6 +86,7 @@ xmind文件:
 [10-14 & 22,23章节](https://files.cnblogs.com/files/jjlay/SE_10th_Edition_%E4%B8%93%E4%B8%9A%E8%8B%B1%E8%AF%AD%E6%95%99%E6%9D%90%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE_Xmind%E5%AF%BC%E5%87%BAPDF_10-14&22,23%E7%AB%A0%E8%8A%82.zip)
 
 
+--- 
 
 ## the book list
 from :  https://blog.csdn.net/jinvmen/article/details/47906099. 
