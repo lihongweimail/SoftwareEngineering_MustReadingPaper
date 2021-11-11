@@ -280,8 +280,6 @@ Collecting Source <br>
 95		Word Embeddings for the Software Engineering Domain	V. Efstathiou, Christos Chatzilenas, D. Spinellis	 2018 IEEE/ACM 15th International Conference on Mining Software Repositories (MSR).	论文		3新型软件![Uploading image.png…]()
 
 
-
-
 ---
 
 # ML must reading paper list:
